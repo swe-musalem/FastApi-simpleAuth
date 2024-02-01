@@ -1,5 +1,6 @@
 Setting Up a Python Project with Virtual Environment and requirements.txt
-Create a New Project Directory: Set up a new Python project directory on your local machine.
+Create a New Project Directory: 
+Set up a new Python project directory on your local machine.
 
 Navigate to the Project Directory: Open a terminal or command prompt and navigate to the project directory.
 
